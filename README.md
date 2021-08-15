@@ -6,7 +6,7 @@ A naturalist is someone who studies the patterns of nature, identifies a differe
 This project focuses on detection of different species of birds,flowers and mammals and obtaining images of that particular category (birds,flowers,mammals) when an image is given.
 
 
-## Team Members(Team 5)
+## Team Members (Team 5)
 
 - Manasa Reddy (19MIA1009)
 - Sanjana Alaham (19MIA1055)
