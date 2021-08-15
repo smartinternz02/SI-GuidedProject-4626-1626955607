@@ -20,6 +20,3 @@ This project focuses on detection of different species of birds,flowers and mamm
 
 ## Link to Video Demonstration
 [Video Demonstration](https://drive.google.com/file/d/1SDXfsPXu7cM2MJeYEQ8apyESQ-AV4_-c/view?usp=sharing)
-
-## Link to Feedback Video
-[Video for Feedback]()
